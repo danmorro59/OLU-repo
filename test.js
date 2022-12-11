@@ -3,4 +3,4 @@ function sayHello(name) {
 }
 
 
-console.log(sayHello('John Doe'));
+console.log(sayHello('Dan'));
